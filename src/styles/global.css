@@ -36,8 +36,8 @@ body {
   color: var(--text);
 }
 
-body, input, textarea, button {
-  font: 400 16px "Inter", sans-serif,
+body, input, textarea, button, span {
+  font: 400 16px 'Inter', sans-serif;
 }
 
 button {
