@@ -1,4 +1,4 @@
-<h1 align="center">RocketLinks</h1>
+<h1 align="center">Move.it</h1>
 <!-- <img alt="Proffy" src="./github/banner.png"> -->
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ThiagoOliveiraCordeiro/moveit?style=for-the-badge">
@@ -44,7 +44,7 @@ The following tools were used in the construction of the project:
 ### :computer: Deploy
 
 <h4 align="center"> 
-	See the running project: <a href="https://moveit-bay.vercel.app/">MoveIt</a>
+	See the running project: <a href="https://moveit-bay.vercel.app/">Move.it</a>
 </h4>
 
 ### :dvd: **Running the Project**
