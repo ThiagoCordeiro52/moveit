@@ -21,7 +21,7 @@
 
 ## :bookmark_tabs: About
 
-Project developed during NLW (Next Level Week) 4, taught by [Rockseat](https://www.rocketseat.com.br/). During this event I learned more advanced concepts of WEB such as SPA (Single Page Applications), SSR (Server Side Rendering) and SSG (Static Site Generation). In addition, I learned to use the Next.js framework to create SPA with SSR. As I also put into practice the knowledge of React.js hooks
+Project developed during NLW (Next Level Week) 4, taught by [Rockseat](https://www.rocketseat.com.br/). During this event I learned more advanced concepts of WEB such as SPA (Single Page Applications), SSR (Server Side Rendering) and SSG (Static Site Generation). In addition, I learned to use the Next.js framework to create SPA with SSR. As I also put into practice the knowledge of React.js hooks.
 
 ---
 
@@ -55,6 +55,11 @@ $ git clone https://github.com/ThiagoOliveiraCordeiro/moveit.git
 
 # Access the project folder in terminal/cmd
 $ cd moveit
+
+# Install the project dependencies
+$ npm install
+# or
+$ yarn install
 
 # Run the development server:
 $ npm run dev
