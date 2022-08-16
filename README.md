@@ -47,7 +47,7 @@ The following tools were used in the construction of the project:
 	See the running project: <a href="https://moveit-bay.vercel.app/">Move.it</a>
 </h4>
 
-### :dvd: **Running the Project**
+### :dvd: **Running the project**
 
 ```bash
 # Clone this repository
